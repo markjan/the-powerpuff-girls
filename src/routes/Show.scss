@@ -1,0 +1,15 @@
+ol.episodes {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  li {
+    width: 46%;
+    display: inline-block;
+    margin: 2%;
+
+    .card-header {
+      min-height: 4em;
+    }
+  }
+}

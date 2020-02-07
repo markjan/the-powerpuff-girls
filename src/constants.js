@@ -1,0 +1,1 @@
+export const POWER_PUFF_URL = "https://api.tvmaze.com/singlesearch/shows?q=the-powerpuff-girls&embed=episodes";
